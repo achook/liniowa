@@ -1,3 +1,3 @@
 # liniowa
 
-[kiedybedziepoprawafuncjiliniowej.pl](https://kiedybedziepoprawafuncjiliniowej.pl) source code
+[kiedybedziepoprawafunkcjiliniowej.pl](https://kiedybedziepoprawafunkcjiliniowej.pl) source code
